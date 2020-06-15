@@ -1,0 +1,17 @@
+{
+  "name": "@mind-kit/note-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "author": "nielinjie <nielinjie@outlook.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.0.13",
+    "@types/typescript": "^2.0.0",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5"
+  }
+}
