@@ -1,0 +1,823 @@
+meta:
+  repositoryInfo: &ref_0
+    path: /Users/nielinjie/Projects/MindKit/noteData
+  viewInfo:
+    expanded: true
+id: uh4-topic20200605
+root:
+  id: uh4-topic20200605
+  content:
+    type: text
+    body: '2020-06-05'
+  children:
+    - id: uh4-s11CyKf
+      content:
+        type: text
+        body: "只要多估算时间就行了。\_"
+      children:
+        - id: uh4-s1nKiMR
+          content:
+            type: text
+            body: 结果是先把硬件部分全部放到 1.8 甚至 3.0 以外
+          children:
+            - id: uh4-s1nKeaf
+              content:
+                type: text
+                body: 硬件对系统的可发布、可售卖影响不大。
+              children: []
+              meta:
+                repositoryInfo: *ref_0
+                viewInfo:
+                  expanded: true
+                version:
+                  created: '2020-06-09T11:32:40+08:00'
+                  updated: '2020-06-09T11:32:54+08:00'
+          meta:
+            repositoryInfo: *ref_0
+            viewInfo:
+              expanded: true
+            version:
+              created: '2020-06-09T11:32:22+08:00'
+              updated: '2020-06-09T11:32:39+08:00'
+      meta:
+        repositoryInfo: *ref_0
+        viewInfo:
+          expanded: true
+        version:
+          created: '2020-06-05T16:44:29+08:00'
+          updated: '2020-06-09T11:33:18+08:00'
+    - id: uh4-s13l6Ko
+      content:
+        type: text
+        body: '与[[资管系统]]是两个系统'
+      children:
+        - id: uh4-s13lgVC
+          content:
+            type: text
+            body: 虽然来说
+          children: []
+          meta:
+            repositoryInfo: *ref_0
+            viewInfo:
+              expanded: true
+            version:
+              created: '2020-06-05T23:47:37+08:00'
+              updated: '2020-06-05T23:47:42+08:00'
+      meta:
+        repositoryInfo: *ref_0
+        viewInfo:
+          expanded: true
+        version:
+          created: '2020-06-05T23:47:20+08:00'
+          updated: '2020-06-05T23:47:37+08:00'
+    - id: uh4-s11ARV9
+      content:
+        type: text
+        body: '[[明航]]的两个 ppt'
+      children:
+        - id: uh4-s11AVsk
+          content:
+            type: text
+            body: '[[资管系统]]2.0 的介绍'
+          children: []
+          meta:
+            repositoryInfo: *ref_0
+            viewInfo:
+              expanded: true
+            version:
+              created: '2020-06-05T16:37:04+08:00'
+              updated: '2020-06-05T16:37:36+08:00'
+        - id: uh4-s11AGez
+          content:
+            type: text
+            body: "[[档案系统]]的方案\_"
+          children: []
+          meta:
+            repositoryInfo: *ref_0
+            viewInfo:
+              expanded: true
+            version:
+              created: '2020-06-05T16:37:36+08:00'
+              updated: '2020-06-07T21:15:42+08:00'
+      meta:
+        repositoryInfo: *ref_0
+        viewInfo:
+          expanded: true
+        version:
+          created: '2020-06-05T16:36:48+08:00'
+          updated: '2020-06-05T16:37:04+08:00'
+    - id: uh4-s11Dbe4
+      content:
+        type: text
+        body: '[[资管系统]]'
+      children:
+        - id: uh4-s11AV4l
+          content:
+            type: text
+            body: 硬件没有 API
+          children:
+            - id: uh4-s11CInd
+              content:
+                type: text
+                body: 只有最底层的协议说明
+              children: []
+              meta:
+                repositoryInfo: *ref_0
+                viewInfo:
+                  expanded: true
+                version:
+                  created: '2020-06-05T16:44:21+08:00'
+                  updated: '2020-06-05T16:44:29+08:00'
+          meta:
+            repositoryInfo: *ref_0
+            viewInfo:
+              expanded: true
+            version:
+              created: '2020-06-05T16:37:52+08:00'
+              updated: '2020-06-05T16:46:03+08:00'
+        - id: uh4-s11Hl9U
+          content:
+            type: text
+            body: 争取 3.0 在六周之内完成。
+          children:
+            - id: uh4-s11HxEi
+              content:
+                type: text
+                body: 需要砍需求。
+              children: []
+              meta:
+                repositoryInfo: *ref_0
+                viewInfo:
+                  expanded: true
+                version:
+                  created: '2020-06-05T17:04:01+08:00'
+                  updated: '2020-06-05T17:04:06+08:00'
+          meta:
+            repositoryInfo: *ref_0
+            viewInfo:
+              expanded: true
+            version:
+              created: '2020-06-05T17:03:15+08:00'
+              updated: '2020-06-05T17:04:00+08:00'
+        - id: uh4-s11HGS6
+          content:
+            type: text
+            body: 修改计划的原因
+          children:
+            - id: uh4-s11I4fm
+              content:
+                type: text
+                body: 为了保证需求的完整性，有些需求是当时没有计划到的。
+              children: []
+              meta:
+                repositoryInfo: *ref_0
+                viewInfo:
+                  expanded: true
+                version:
+                  created: '2020-06-05T17:06:00+08:00'
+                  updated: '2020-06-05T17:07:13+08:00'
+          meta:
+            repositoryInfo: *ref_0
+            viewInfo:
+              expanded: true
+            version:
+              created: '2020-06-05T17:04:54+08:00'
+              updated: '2020-06-05T17:05:08+08:00'
+      meta:
+        repositoryInfo: *ref_0
+        viewInfo:
+          expanded: true
+        version:
+          created: '2020-06-05T16:46:03+08:00'
+          updated: '2020-06-05T16:46:10+08:00'
+    - id: uh4-s11HHE6
+      content:
+        type: text
+        body: "一个迭代控制在 2 周——[[海妮]]\_"
+      children:
+        - id: uh4-s11HTMp
+          content:
+            type: text
+            body: 因为有太多的功能无法保证回归覆盖。
+          children: []
+          meta:
+            repositoryInfo: *ref_0
+            viewInfo:
+              expanded: true
+            version:
+              created: '2020-06-05T17:04:42+08:00'
+              updated: '2020-06-05T17:04:54+08:00'
+        - id: uh4-s1nKwUu
+          content:
+            type: text
+            body: 1.7 尝试。
+          children: []
+          meta:
+            repositoryInfo: *ref_0
+            viewInfo:
+              expanded: true
+            version:
+              created: '2020-06-09T11:33:04+08:00'
+              updated: '2020-06-09T11:33:11+08:00'
+      meta:
+        repositoryInfo: *ref_0
+        viewInfo:
+          expanded: true
+        version:
+          created: '2020-06-05T17:04:07+08:00'
+          updated: '2020-06-09T11:33:16+08:00'
+    - id: uh4-s11IvaE
+      content:
+        type: text
+        body: '[[云链]]'
+      children:
+        - id: uh4-s11IoVA
+          content:
+            type: text
+            body: 生产环境上没有任何数据
+          children:
+            - id: uh4-s11Il87
+              content:
+                type: text
+                body: staging 上有，jd 的联调有用到一些假数据。
+              children: []
+              meta:
+                repositoryInfo: *ref_0
+                viewInfo:
+                  expanded: true
+                version:
+                  created: '2020-06-05T17:07:34+08:00'
+                  updated: '2020-06-05T17:08:05+08:00'
+            - id: uh4-s11Gvt9
+              content:
+                type: text
+                body: '[[尚清]]会有一个 email 过来。'
+              children: []
+              meta:
+                repositoryInfo: *ref_0
+                viewInfo:
+                  expanded: true
+                version:
+                  created: '2020-06-05T17:11:36+08:00'
+                  updated: '2020-06-05T17:12:12+08:00'
+          meta:
+            repositoryInfo: *ref_0
+            viewInfo:
+              expanded: true
+            version:
+              created: '2020-06-05T17:07:24+08:00'
+              updated: '2020-06-05T17:07:33+08:00'
+        - id: uh4-s11IA8N
+          content:
+            type: text
+            body: 需要确认好生产上有什么数据
+          children:
+            - id: uh4-s11Iv6u
+              content:
+                type: text
+                body: demo 用生产，而不是 staging
+              children: []
+              meta:
+                repositoryInfo: *ref_0
+                viewInfo:
+                  expanded: true
+                version:
+                  created: '2020-06-05T17:08:24+08:00'
+                  updated: '2020-06-05T17:08:31+08:00'
+          meta:
+            repositoryInfo: *ref_0
+            viewInfo:
+              expanded: true
+            version:
+              created: '2020-06-05T17:08:06+08:00'
+              updated: '2020-06-05T17:08:24+08:00'
+      meta:
+        repositoryInfo: *ref_0
+        viewInfo:
+          expanded: true
+        version:
+          created: '2020-06-05T17:07:14+08:00'
+          updated: '2020-06-05T17:07:22+08:00'
+    - id: uh4-s13lh4T
+      content:
+        type: text
+        body: '[[档案系统]]'
+      children: []
+      meta:
+        repositoryInfo: *ref_0
+        viewInfo:
+          expanded: true
+        version:
+          created: '2020-06-05T23:47:10+08:00'
+          updated: '2020-06-05T23:47:18+08:00'
+    - id: uh4-s11BEG7
+      content:
+        type: text
+        body: '[[Roamedit]]'
+      children:
+        - id: uh4-s11IRhD
+          content:
+            type: text
+            body: 联系方式
+          children:
+            - id: uh4-s13mRox
+              content:
+                type: text
+                body: 知乎有私信
+              children: []
+              meta:
+                repositoryInfo: *ref_0
+                viewInfo:
+                  expanded: true
+                version:
+                  created: '2020-06-05T23:54:35+08:00'
+                  updated: '2020-06-05T23:54:46+08:00'
+            - id: uh4-s15Ad95
+              content:
+                type: text
+                body: 添加微信
+              children: []
+              meta:
+                repositoryInfo: *ref_0
+                viewInfo:
+                  expanded: true
+                version:
+                  created: '2020-06-06T08:59:30+08:00'
+                  updated: '2020-06-06T08:59:33+08:00'
+          meta:
+            repositoryInfo: *ref_0
+            viewInfo:
+              expanded: true
+            version:
+              created: '2020-06-05T17:09:39+08:00'
+              updated: '2020-06-05T17:09:40+08:00'
+        - id: uh4-s11Gvrs
+          content:
+            type: text
+            body: 问题
+          children:
+            - id: uh4-s11GgbG
+              content:
+                type: text
+                body: 星标 - un 星标之后，node 丢了……
+              children: []
+              meta:
+                repositoryInfo: *ref_0
+                viewInfo:
+                  expanded: true
+                version:
+                  created: '2020-06-05T16:59:07+08:00'
+                  updated: '2020-06-05T16:59:31+08:00'
+            - id: uh4-s11GDwT
+              content:
+                type: text
+                body: 有时候会失去焦点
+              children:
+                - id: uh4-s11Gql6
+                  content:
+                    type: text
+                    body: enter+tab/untab 的时候容易出现
+                  children:
+                    - id: uh4-s11Gun8
+                      content:
+                        type: text
+                        body: 是否是输入法的问题？
+                      children: []
+                      meta:
+                        repositoryInfo: *ref_0
+                        viewInfo:
+                          expanded: true
+                        version:
+                          created: '2020-06-05T17:00:08+08:00'
+                          updated: '2020-06-05T17:00:14+08:00'
+                  meta:
+                    repositoryInfo: *ref_0
+                    viewInfo:
+                      expanded: true
+                    version:
+                      created: '2020-06-05T16:59:40+08:00'
+                      updated: '2020-06-05T17:00:08+08:00'
+              meta:
+                repositoryInfo: *ref_0
+                viewInfo:
+                  expanded: true
+                version:
+                  created: '2020-06-05T16:59:31+08:00'
+                  updated: '2020-06-05T16:59:40+08:00'
+            - id: uh4-s11GZni
+              content:
+                type: text
+                body: 可否把一个 node 升级到“主题”？
+              children:
+                - id: uh4-s11GX9I
+                  content:
+                    type: text
+                    body: 比如我在今天的每日里面详细记录了 roamedit 的相关想法，于是想把这个 node 升级为一个单独的主题。
+                  children: []
+                  meta:
+                    repositoryInfo: *ref_0
+                    viewInfo:
+                      expanded: true
+                    version:
+                      created: '2020-06-05T17:01:48+08:00'
+                      updated: '2020-06-05T17:03:02+08:00'
+                - id: uh4-s11KwqY
+                  content:
+                    type: text
+                    body: '把 node 用[[关起来会变成一个主题？'
+                  children:
+                    - id: uh4-s11KRGT
+                      content:
+                        type: text
+                        body: 不会，但有个空主题能作为一个入口。
+                      children: []
+                      meta:
+                        repositoryInfo: *ref_0
+                        viewInfo:
+                          expanded: true
+                        version:
+                          created: '2020-06-05T17:16:40+08:00'
+                          updated: '2020-06-05T17:17:05+08:00'
+                  meta:
+                    repositoryInfo: *ref_0
+                    viewInfo:
+                      expanded: true
+                    version:
+                      created: '2020-06-05T17:16:18+08:00'
+                      updated: '2020-06-05T17:16:40+08:00'
+              meta:
+                repositoryInfo: *ref_0
+                viewInfo:
+                  expanded: true
+                version:
+                  created: '2020-06-05T17:01:18+08:00'
+                  updated: '2020-06-05T17:01:37+08:00'
+            - id: uh4-s133a2N
+              content:
+                type: text
+                body: (( 如何工作
+              children:
+                - id: uh4-s133eGw
+                  content:
+                    type: text
+                    body: 只有一个当前节点嵌入到此处，没有包括它的子节点。
+                  children: []
+                  meta:
+                    repositoryInfo: *ref_0
+                    viewInfo:
+                      expanded: true
+                    version:
+                      created: '2020-06-05T22:36:21+08:00'
+                      updated: '2020-06-05T22:36:56+08:00'
+              meta:
+                repositoryInfo: *ref_0
+                viewInfo:
+                  expanded: true
+                version:
+                  created: '2020-06-05T22:36:04+08:00'
+                  updated: '2020-06-05T22:36:21+08:00'
+            - id: uh4-s134vhg
+              content:
+                type: text
+                body: 浏览器的后退键没有用？
+              children:
+                - id: uh4-s134sgF
+                  content:
+                    type: text
+                    body: 引用后点击了那个引用节点，然后回不去了。
+                  children: []
+                  meta:
+                    repositoryInfo: *ref_0
+                    viewInfo:
+                      expanded: true
+                    version:
+                      created: '2020-06-05T22:41:18+08:00'
+                      updated: '2020-06-05T22:41:37+08:00'
+              meta:
+                repositoryInfo: *ref_0
+                viewInfo:
+                  expanded: true
+                version:
+                  created: '2020-06-05T22:40:50+08:00'
+                  updated: '2020-06-05T22:41:17+08:00'
+            - id: uh4-s13gaXr
+              content:
+                type: text
+                body: UI
+              children:
+                - id: uh4-s13gu6n
+                  content:
+                    type: text
+                    body: 多editor 同时编辑，side by side。
+                  children:
+                    - id: uh4-s13kB8g
+                      content:
+                        type: text
+                        body: 可以的。 只能是两个，这个可能是设计如此。
+                      children: []
+                      meta:
+                        repositoryInfo: *ref_0
+                        viewInfo:
+                          expanded: true
+                        version:
+                          created: '2020-06-05T23:45:41+08:00'
+                          updated: '2020-06-06T09:01:17+08:00'
+                  meta:
+                    repositoryInfo: *ref_0
+                    viewInfo:
+                      expanded: true
+                    version:
+                      created: '2020-06-05T23:40:11+08:00'
+                      updated: '2020-06-05T23:45:40+08:00'
+                - id: uh4-s13kCsM
+                  content:
+                    type: text
+                    body: navigate 的时候不能保留 focus。
+                  children: []
+                  meta:
+                    repositoryInfo: *ref_0
+                    viewInfo:
+                      expanded: true
+                    version:
+                      created: '2020-06-05T23:44:51+08:00'
+                      updated: '2020-06-05T23:45:10+08:00'
+                - id: uh4-s15AYv5
+                  content:
+                    type: text
+                    body: copy 的时候有问题，会出现多个重复的块。
+                  children: []
+                  meta:
+                    repositoryInfo: *ref_0
+                    viewInfo:
+                      expanded: true
+                    version:
+                      created: '2020-06-06T09:02:53+08:00'
+                      updated: '2020-06-06T09:03:13+08:00'
+              meta:
+                repositoryInfo: *ref_0
+                viewInfo:
+                  expanded: true
+                version:
+                  created: '2020-06-05T23:40:07+08:00'
+                  updated: '2020-06-06T09:00:49+08:00'
+          meta:
+            repositoryInfo: *ref_0
+            viewInfo:
+              expanded: true
+            version:
+              created: '2020-06-05T16:59:02+08:00'
+              updated: '2020-06-05T16:59:07+08:00'
+        - id: uh4-s11GFt4
+          content:
+            type: text
+            body: 比较
+          children:
+            - id: uh4-s11Guao
+              content:
+                type: text
+                body: 大纲是否重要？
+              children:
+                - id: uh4-s11Lpeq
+                  content:
+                    type: text
+                    body: markdown 是否可以模拟？
+                  children:
+                    - id: uh4-s11LDwG
+                      content:
+                        type: text
+                        body: enter、tab 是否可以方便地组织？
+                      children:
+                        - id: uh4-s13iTYB
+                          content:
+                            type: text
+                            body: '[[Obsidian]] 不能。'
+                          children: []
+                          meta:
+                            repositoryInfo: *ref_0
+                            viewInfo:
+                              expanded: true
+                            version:
+                              created: '2020-06-05T23:37:51+08:00'
+                              updated: '2020-06-05T23:39:09+08:00'
+                      meta:
+                        repositoryInfo: *ref_0
+                        viewInfo:
+                          expanded: true
+                        version:
+                          created: '2020-06-05T17:20:04+08:00'
+                          updated: '2020-06-05T17:20:22+08:00'
+                  meta:
+                    repositoryInfo: *ref_0
+                    viewInfo:
+                      expanded: true
+                    version:
+                      created: '2020-06-05T17:19:45+08:00'
+                      updated: '2020-06-05T17:19:58+08:00'
+                - id: uh4-s13g5V2
+                  content:
+                    type: text
+                    body: 比较重要哎。
+                  children: []
+                  meta:
+                    repositoryInfo: *ref_0
+                    viewInfo:
+                      expanded: true
+                    version:
+                      created: '2020-06-05T23:39:11+08:00'
+                      updated: '2020-06-05T23:39:19+08:00'
+                - id: uh4-s13gbuI
+                  content:
+                    type: text
+                    body: 树形组织是我的比较爱。
+                  children: []
+                  meta:
+                    repositoryInfo: *ref_0
+                    viewInfo:
+                      expanded: true
+                    version:
+                      created: '2020-06-05T23:39:23+08:00'
+                      updated: '2020-06-05T23:39:37+08:00'
+                - id: uh4-s13lhPC
+                  content:
+                    type: text
+                    body: markdown 利于出版，大纲利于快速整理。
+                  children: []
+                  meta:
+                    repositoryInfo: *ref_0
+                    viewInfo:
+                      expanded: true
+                    version:
+                      created: '2020-06-05T23:48:26+08:00'
+                      updated: '2020-06-05T23:49:18+08:00'
+              meta:
+                repositoryInfo: *ref_0
+                viewInfo:
+                  expanded: true
+                version:
+                  created: '2020-06-05T17:00:23+08:00'
+                  updated: '2020-06-05T17:03:11+08:00'
+            - id: uh4-s11GRTP
+              content:
+                type: text
+                body: 块级链接是否重要？
+              children:
+                - id: uh4-s13g10C
+                  content:
+                    type: text
+                    body: 似乎问题不是很大，因为预览的时候可以看到上下文。
+                  children: []
+                  meta:
+                    repositoryInfo: *ref_0
+                    viewInfo:
+                      expanded: true
+                    version:
+                      created: '2020-06-05T23:39:45+08:00'
+                      updated: '2020-06-05T23:41:42+08:00'
+                - id: uh4-s13gNlx
+                  content:
+                    type: text
+                    body: 'RoamEdit 似乎也没有，用]] 只能连接到一个”主题”，不能连接到一个 node。'
+                  children:
+                    - id: uh4-s13gSFv
+                      content:
+                        type: text
+                        body: 用))可以，但这里被称为一个“引用”。这个算是”链接”么？
+                      children: []
+                      meta:
+                        repositoryInfo: *ref_0
+                        viewInfo:
+                          expanded: true
+                        version:
+                          created: '2020-06-05T23:43:04+08:00'
+                          updated: '2020-06-05T23:43:45+08:00'
+                  meta:
+                    repositoryInfo: *ref_0
+                    viewInfo:
+                      expanded: true
+                    version:
+                      created: '2020-06-05T23:42:09+08:00'
+                      updated: '2020-06-05T23:43:04+08:00'
+              meta:
+                repositoryInfo: *ref_0
+                viewInfo:
+                  expanded: true
+                version:
+                  created: '2020-06-05T17:00:29+08:00'
+                  updated: '2020-06-05T17:00:45+08:00'
+            - id: uh4-s11GOG2
+              content:
+                type: text
+                body: 双向链接是否重要？
+              children: []
+              meta:
+                repositoryInfo: *ref_0
+                viewInfo:
+                  expanded: true
+                version:
+                  created: '2020-06-05T17:01:01+08:00'
+                  updated: '2020-06-05T17:01:14+08:00'
+            - id: uh4-s11Lrt5
+              content:
+                type: text
+                body: 没有本地存储
+              children:
+                - id: uh4-s13m20k
+                  content:
+                    type: text
+                    body: 这个是问题么？有待观察。
+                  children:
+                    - id: uh4-s13map4
+                      content:
+                        type: text
+                        body: '比如[[RoamResourch]]在的收费的时候引起问题'
+                      children: []
+                      meta:
+                        repositoryInfo: *ref_0
+                        viewInfo:
+                          expanded: true
+                        version:
+                          created: '2020-06-05T23:51:17+08:00'
+                          updated: '2020-06-05T23:52:27+08:00'
+                  meta:
+                    repositoryInfo: *ref_0
+                    viewInfo:
+                      expanded: true
+                    version:
+                      created: '2020-06-05T23:51:08+08:00'
+                      updated: '2020-06-05T23:51:17+08:00'
+                - id: uh4-s13mq0Z
+                  content:
+                    type: text
+                    body: 如果有本地存储，由 icloude 之类的云来负责同步。
+                  children: []
+                  meta:
+                    repositoryInfo: *ref_0
+                    viewInfo:
+                      expanded: true
+                    version:
+                      created: '2020-06-05T23:52:28+08:00'
+                      updated: '2020-06-05T23:52:55+08:00'
+              meta:
+                repositoryInfo: *ref_0
+                viewInfo:
+                  expanded: true
+                version:
+                  created: '2020-06-05T17:19:15+08:00'
+                  updated: '2020-06-05T17:19:22+08:00'
+            - id: uh4-s11GHle
+              content:
+                type: text
+                body: 费用、网络是否重要？
+              children:
+                - id: uh4-s11L7Fu
+                  content:
+                    type: text
+                    body: 费用太贵达到了 15 刀/月还是有所谓的。
+                  children:
+                    - id: uh4-s25muPu
+                      content:
+                        type: text
+                        body: 15刀/年还差不多。
+                      children: []
+                      meta:
+                        repositoryInfo: *ref_0
+                        viewInfo:
+                          expanded: true
+                        version:
+                          created: '2020-06-16T22:34:09+08:00'
+                          updated: '2020-06-16T22:34:20+08:00'
+                  meta:
+                    repositoryInfo: *ref_0
+                    viewInfo:
+                      expanded: true
+                    version:
+                      created: '2020-06-05T17:18:38+08:00'
+                      updated: '2020-06-05T23:53:02+08:00'
+              meta:
+                repositoryInfo: *ref_0
+                viewInfo:
+                  expanded: true
+                version:
+                  created: '2020-06-05T17:00:45+08:00'
+                  updated: '2020-06-05T17:00:55+08:00'
+          meta:
+            repositoryInfo: *ref_0
+            viewInfo:
+              expanded: true
+            version:
+              created: '2020-06-05T17:00:15+08:00'
+              updated: '2020-06-05T17:00:22+08:00'
+      meta:
+        repositoryInfo: *ref_0
+        viewInfo:
+          expanded: true
+        version:
+          created: '2020-06-05T16:40:19+08:00'
+          updated: '2020-06-05T23:53:31+08:00'
+  meta:
+    repositoryInfo: *ref_0
+    viewInfo:
+      expanded: true
+    version:
+      created: '2020-06-05T15:45:46+08:00'
+      updated: '2020-06-05T15:45:46+08:00'

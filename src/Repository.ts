@@ -1,3 +1,6 @@
+import { Node, Meta } from "./Node";
+import { StringKeyObject } from "./Util";
+
 export type Id = string;
 
 export interface Repository {
@@ -6,23 +9,13 @@ export interface Repository {
   getTopic(id: Id): Topic | undefined;
 }
 
-export interface WritableRepository{
-      saveTopic(topic: Topic):void
+export interface WritableRepository {
+  saveTopic(topic: Topic): void;
 }
-
+export type TopicMeta = {
+  repositoryInfo?: StringKeyObject;
+  viewInfo?: StringKeyObject;
+} & StringKeyObject;
 export class Topic {
-  constructor(
-    public path: string,
-    public id: Id,
-    public title: string,
-    public nodes: Node[]
-  ) {}
-}
-export class Node {
-  constructor(
-    public id: Id,
-    public text: string,
-    public created: string,
-    public updated: string
-  ) {}
+  constructor(public meta: TopicMeta, public id: Id, public root: Node) {}
 }

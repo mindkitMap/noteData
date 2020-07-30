@@ -1,0 +1,204 @@
+id: uh4-topic20200605
+title: '2020-06-05'
+nodes:
+  - id: uh4-s11CyKf
+    text: "只要多估算时间就行了。\_"
+    children:
+      - id: uh4-s1nKiMR
+        text: 结果是先把硬件部分全部放到 1.8 甚至 3.0 以外
+        children:
+          - id: uh4-s1nKeaf
+            text: 硬件对系统的可发布、可售卖影响不大。
+            children: []
+  - id: uh4-s13l6Ko
+    text: '与[[资管系统]]是两个系统'
+    children:
+      - id: uh4-s13lgVC
+        text: 虽然来说
+        children: []
+  - id: uh4-s11ARV9
+    text: '[[明航]]的两个 ppt'
+    children:
+      - id: uh4-s11AVsk
+        text: '[[资管系统]]2.0 的介绍'
+        children: []
+      - id: uh4-s11AGez
+        text: "[[档案系统]]的方案\_"
+        children: []
+  - id: uh4-s11Dbe4
+    text: '[[资管系统]]'
+    children:
+      - id: uh4-s11AV4l
+        text: 硬件没有 API
+        children:
+          - id: uh4-s11CInd
+            text: 只有最底层的协议说明
+            children: []
+      - id: uh4-s11Hl9U
+        text: 争取 3.0 在六周之内完成。
+        children:
+          - id: uh4-s11HxEi
+            text: 需要砍需求。
+            children: []
+      - id: uh4-s11HGS6
+        text: 修改计划的原因
+        children:
+          - id: uh4-s11I4fm
+            text: 为了保证需求的完整性，有些需求是当时没有计划到的。
+            children: []
+  - id: uh4-s11HHE6
+    text: "一个迭代控制在 2 周——[[海妮]]\_"
+    children:
+      - id: uh4-s11HTMp
+        text: 因为有太多的功能无法保证回归覆盖。
+        children: []
+      - id: uh4-s1nKwUu
+        text: 1.7 尝试。
+        children: []
+  - id: uh4-s11IvaE
+    text: '[[云链]]'
+    children:
+      - id: uh4-s11IoVA
+        text: 生产环境上没有任何数据
+        children:
+          - id: uh4-s11Il87
+            text: staging 上有，jd 的联调有用到一些假数据。
+            children: []
+          - id: uh4-s11Gvt9
+            text: '[[尚清]]会有一个 email 过来。'
+            children: []
+      - id: uh4-s11IA8N
+        text: 需要确认好生产上有什么数据
+        children:
+          - id: uh4-s11Iv6u
+            text: demo 用生产，而不是 staging
+            children: []
+  - id: uh4-s13lh4T
+    text: '[[档案系统]]'
+    children: []
+  - id: uh4-s11BEG7
+    text: '[[Roamedit]]'
+    children:
+      - id: uh4-s11IRhD
+        text: 联系方式
+        children:
+          - id: uh4-s13mRox
+            text: 知乎有私信
+            children: []
+          - id: uh4-s15Ad95
+            text: 添加微信
+            children: []
+      - id: uh4-s11Gvrs
+        text: 问题
+        children:
+          - id: uh4-s11GgbG
+            text: 星标 - un 星标之后，node 丢了……
+            children: []
+          - id: uh4-s11GDwT
+            text: 有时候会失去焦点
+            children:
+              - id: uh4-s11Gql6
+                text: enter+tab/untab 的时候容易出现
+                children:
+                  - id: uh4-s11Gun8
+                    text: 是否是输入法的问题？
+                    children: []
+          - id: uh4-s11GZni
+            text: 可否把一个 node 升级到“主题”？
+            children:
+              - id: uh4-s11GX9I
+                text: 比如我在今天的每日里面详细记录了 roamedit 的相关想法，于是想把这个 node 升级为一个单独的主题。
+                children: []
+              - id: uh4-s11KwqY
+                text: '把 node 用[[关起来会变成一个主题？'
+                children:
+                  - id: uh4-s11KRGT
+                    text: 不会，但有个空主题能作为一个入口。
+                    children: []
+          - id: uh4-s133a2N
+            text: (( 如何工作
+            children:
+              - id: uh4-s133eGw
+                text: 只有一个当前节点嵌入到此处，没有包括它的子节点。
+                children: []
+          - id: uh4-s134vhg
+            text: 浏览器的后退键没有用？
+            children:
+              - id: uh4-s134sgF
+                text: 引用后点击了那个引用节点，然后回不去了。
+                children: []
+          - id: uh4-s13gaXr
+            text: UI
+            children:
+              - id: uh4-s13gu6n
+                text: 多editor 同时编辑，side by side。
+                children:
+                  - id: uh4-s13kB8g
+                    text: 可以的。 只能是两个，这个可能是设计如此。
+                    children: []
+              - id: uh4-s13kCsM
+                text: navigate 的时候不能保留 focus。
+                children: []
+              - id: uh4-s15AYv5
+                text: copy 的时候有问题，会出现多个重复的块。
+                children: []
+      - id: uh4-s11GFt4
+        text: 比较
+        children:
+          - id: uh4-s11Guao
+            text: 大纲是否重要？
+            children:
+              - id: uh4-s11Lpeq
+                text: markdown 是否可以模拟？
+                children:
+                  - id: uh4-s11LDwG
+                    text: enter、tab 是否可以方便地组织？
+                    children:
+                      - id: uh4-s13iTYB
+                        text: '[[Obsidian]] 不能。'
+                        children: []
+              - id: uh4-s13g5V2
+                text: 比较重要哎。
+                children: []
+              - id: uh4-s13gbuI
+                text: 树形组织是我的比较爱。
+                children: []
+              - id: uh4-s13lhPC
+                text: markdown 利于出版，大纲利于快速整理。
+                children: []
+          - id: uh4-s11GRTP
+            text: 块级链接是否重要？
+            children:
+              - id: uh4-s13g10C
+                text: 似乎问题不是很大，因为预览的时候可以看到上下文。
+                children: []
+              - id: uh4-s13gNlx
+                text: 'RoamEdit 似乎也没有，用]] 只能连接到一个”主题”，不能连接到一个 node。'
+                children:
+                  - id: uh4-s13gSFv
+                    text: 用))可以，但这里被称为一个“引用”。这个算是”链接”么？
+                    children: []
+          - id: uh4-s11GOG2
+            text: 双向链接是否重要？
+            children: []
+          - id: uh4-s11Lrt5
+            text: 没有本地存储
+            children:
+              - id: uh4-s13m20k
+                text: 这个是问题么？有待观察。
+                children:
+                  - id: uh4-s13map4
+                    text: '比如[[RoamResourch]]在的收费的时候引起问题'
+                    children: []
+              - id: uh4-s13mq0Z
+                text: 如果有本地存储，由 icloude 之类的云来负责同步。
+                children: []
+          - id: uh4-s11GHle
+            text: 费用、网络是否重要？
+            children:
+              - id: uh4-s11L7Fu
+                text: 费用太贵达到了 15 刀/月还是有所谓的。
+                children:
+                  - id: uh4-s25muPu
+                    text: 15刀/年还差不多。
+                    children: []
