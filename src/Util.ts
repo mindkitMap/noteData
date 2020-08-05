@@ -5,3 +5,6 @@ export function notNil<TValue>(value: TValue | null | undefined): value is TValu
 }
 
 export type StringKeyObject = { [key: string]: any };
+
+
+export const shoutFullFormat = 'YYYYMMDDHHmmssSSSS'

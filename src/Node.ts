@@ -1,5 +1,6 @@
 import { Id } from "./Repository";
 import { StringKeyObject } from "./Util";
+import { sum, max } from "lodash";
 
 export type Version = { created: string; updated: string };
 
@@ -26,4 +27,22 @@ export class Node {
       return this.content.toString();
     }
   }
+
+  static fromObject(object: any): Node {
+    return new Node(
+      object.id,
+      object.content,
+      object.children.map((child) => Node.fromObject(child)),
+      object.meta
+    );
+  }
 }
+
+export const NodeStatic = {
+  count(node: Node): number {
+    return 1 + sum(node.children.map((child) => NodeStatic.count(child)));
+  },
+  // deep(node:Node,base:number=0):number{
+  //   return max(0,
+  // }
+};

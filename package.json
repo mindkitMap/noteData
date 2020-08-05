@@ -2,9 +2,11 @@
   "name": "@mind-kit/note-data",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "start": "ts-node src/index.ts"
+    "start": "ts-node src/index.ts",
+    "dump": "ts-node src/dump.ts",
+    "test": "jest"
   },
   "author": "nielinjie <nielinjie@outlook.com>",
   "license": "ISC",
@@ -23,5 +25,10 @@
     "moment": "^2.27.0",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.7"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.8",
+    "jest": "^26.2.1",
+    "ts-jest": "^26.1.4"
   }
 }
